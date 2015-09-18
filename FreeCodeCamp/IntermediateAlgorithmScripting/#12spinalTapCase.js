@@ -21,4 +21,4 @@ function spinalCase(str) {
 
 spinalCase('ThisIsSpinalTap'); 
 //Tested with: "This Is Spinal Tap", "ThisIsSpinalTap", "The_Andy_Griffith_Show", "Teletubbies say Eh-oh"
-//Christoffer92
+//Made by: Christoffer92

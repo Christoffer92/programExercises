@@ -9,4 +9,4 @@ function convert(str) {
   return str; //instead of the code above the return could been: str.replace(/&/g, '&amp;').replace(/</g, '&lt;'). etc...
 }
 convert('Dolce & Gabbana');
-//Christoffer92
+//Made by: Christoffer92
